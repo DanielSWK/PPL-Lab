@@ -22,7 +22,7 @@ int main() {
     cout << "Hobi: ";
     cin >> hobi;
     
-    cout << "\n--- Perkenalan Diri ---\n";
+    cout << "\n--- Template Kalimat Perkenalan Diri ---\n";
     cout << "Halo semua!" << endl;
     cout << "Perkenalkan saya " << nama << " dari program studi " << jurusan << " angkatan " << angkatan << "." << endl;
     cout << "Saat ini saya berada di Semeseter " << semester << "." << endl;

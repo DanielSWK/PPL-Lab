@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    string nama, jurusan, hobi;
+    string nama, jurusan, alamat;
     int angkatan, semester;
 
     cout << "Nama Lengkap: ";
@@ -21,12 +21,16 @@ int main() {
 
     cout << "Hobi: ";
     cin >> hobi;
+
+    cout << "Alamat: ";
+    cin >> alamat;
     
     cout << "\n--- Template Kalimat Perkenalan Diri ---\n";
     cout << "Halo semua!" << endl;
     cout << "Perkenalkan saya " << nama << " dari program studi " << jurusan << " angkatan " << angkatan << "." << endl;
     cout << "Saat ini saya berada di Semeseter " << semester << "." << endl;
     cout << "Hobi saya adalah " << hobi << "." << endl;
+    cout << "Alamat saya berada di " << alamat << "." << endl;
 
     return 0;
 }

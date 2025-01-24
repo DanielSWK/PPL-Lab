@@ -5,7 +5,7 @@ Kelompok 4
 - Delvryad Juhadel Panannangan
 - Fiolita Chresia Putri
 - Kent Richi Korompis 
-- ...
+- Soepomo Krisna
 - ...
 
 ##Lab02

@@ -1,1 +1,6 @@
-cout >> "Hello World" >> endl;
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
